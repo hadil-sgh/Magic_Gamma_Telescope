@@ -1,3 +1,4 @@
 {
-  "cSpell.words": ["hstack", "imblearn", "ylabel"]
+  "cSpell.words": ["hstack", "imblearn", "ylabel"],
+  "python.analysis.autoImportCompletions": true
 }
